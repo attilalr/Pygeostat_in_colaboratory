@@ -1,2 +1,2 @@
-# Pygeostat_in_colaboratory
+# Pygeostat in colaboratory
 Using pygeostat in Google Colaboratory
